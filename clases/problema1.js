@@ -1,3 +1,6 @@
+/*problema1:Crear una clase comprobante de factura, con id, fecha, importe, lista de items
+(cantidad, descripcion, precio unitario) y una función para calcular el total de la
+factura. Imprimir el resultado en la consola del navegador.*/ 
 class comprobanteFactura{
     // factura, con id, fecha, importe, lista de items
     constructor(factura,id,listaItems){
